@@ -2,7 +2,7 @@
 
 Every source cited across the research, grouped by the report that uses it. A URL cited by more than one report is listed under each, with a cross-reference.
 
-**355 unique sources** across 7 reports (365 citations in total).
+**384 unique sources** across 8 reports (396 citations in total).
 
 > Reachability caveat: TikTok and Instagram pages were not reachable from this machine, and a few domains failed DNS or returned 403 to the fetch tool. Where that affected a claim it is flagged in the relevant report and in `ASSUMPTIONS.md`. Figures from aggregators (vidIQ, AppGoblin, creatordb) are labelled as estimates at the point of use.
 
@@ -15,11 +15,12 @@ Every source cited across the research, grouped by the report that uses it. A UR
 | tiktok.com | 24 |
 | vidiq.com | 17 |
 | apps.apple.com | 10 |
-| socialmediatoday.com | 4 |
+| socialmediatoday.com | 8 |
+| note.com | 5 |
 | tubefilter.com | 4 |
-| note.com | 4 |
 | famousbirthdays.com | 3 |
 | lycbiz.com | 3 |
+| buffer.com | 3 |
 | sam-kojo-coaching.teachable.com | 3 |
 | onlinemarketing.de | 2 |
 | capcut.com | 2 |
@@ -35,7 +36,6 @@ Every source cited across the research, grouped by the report that uses it. A UR
 | find-model.jp | 2 |
 | comnico.jp | 2 |
 | getlatka.com | 2 |
-| rosetta.to | 2 |
 
 ## Retention, hooks, loops and curiosity
 
@@ -49,7 +49,7 @@ From [`01_retention_and_curiosity.md`](01_retention_and_curiosity.md) — 30 sou
 - <https://onlinemarketing.de/social-media-marketing/instagram-so-wichtig-sind-watched-seconds>
 - <https://www.skyword.com/contentstandard/creativity/the-curiosity-gap-how-consumer-psychology-is-driven-by-whats-missing/>
 - <https://socialk.it/en/blog/tiktok-series-content-strategy>
-- <https://www.socialmediatoday.com/news/instagram-shares-algorithm-2025/738034/>
+- <https://www.socialmediatoday.com/news/instagram-shares-algorithm-2025/738034/>  _(also cited in `09_instagram.md`)_
 - <https://www.socialync.io/blog/open-loops-in-content-2026>
 - <https://threadreaderapp.com/thread/1646898356419981315.html>
 - <https://www.tubefilter.com/?p=145040>
@@ -100,7 +100,7 @@ From [`02_taita_del_tricking.md`](02_taita_del_tricking.md) — 87 sources.
 - <https://ja.wikipedia.org/wiki/トリッキング>
 - <https://www.loopkickstricking.com/tricktionary>
 - <https://marketingrightsideup.beehiiv.com/p/dont-want-go-viral-mktrsu-012>
-- <https://midpenpost.org/2024/05/17/flipping-in-finesse-gunn-juniors-mindset-grows-through-tricking/>
+- <https://midpenpost.org/2024/05/17/flipping-in-finesse-gunn-juniors-mindset-grows-through-tricking/>  _(also cited in `09_instagram.md`)_
 - <https://nativecamp.net/going-global/kazuki>
 - <https://oceans.tokyo.jp/article/detail/38272>
 - <https://www.redbull.com/de-de/athlete/jason-paul>
@@ -437,15 +437,53 @@ From [`08_monetization.md`](08_monetization.md) — 53 sources.
 - <https://www.youtube.com/shorts/mNMyfU8ZiEw>
 - <https://www.youtube.com/watch?v=jrJqMMX9HEM>
 
+## Instagram: ranking, follows-per-reach, Reels packaging and Insights
+
+From [`09_instagram.md`](09_instagram.md) — 31 sources.
+
+- <https://about.instagram.com/blog/announcements/instagram-ranking-explained>
+- <https://adant.ai/guides/instagram-reels-views-but-no-followers>
+- <https://buffer.com/resources/instagram-algorithms/>
+- <https://buzzvoice.com/blog/how-long-can-instagram-captions-be>
+- <https://creatorlanehq.com/blog/instagram-5-hashtag-limit-2026>
+- <https://creators.facebook.com/introducing-views-to-simplify-content>
+- <https://creators.instagram.com/blog/helping-creators-of-all-sizes-break-through>
+- <https://www.dashsocial.com/blog/non-followers-instagram-audience>
+- <https://www.dashsocial.com/press-release/2026-social-media-benchmarks>
+- <https://databox.com/benchmarks/instagram-benchmarks>
+- <https://developers.facebook.com/documentation/instagram-platform/reference/instagram-media/insights>
+- <https://doublebarril.com/how-to/social-media-hashtag-strategy/>
+- <https://www.flick.social/learn/instagram-analytics-benchmarks/insights/conversion-rate/3-months>
+- <https://help.instagram.com/202865988324236/>
+- <https://heymark.ai/en/guides/instagram-pinned-posts/>
+- <https://www.jeffbullas.com/thread/how-does-instagrams-keyword-search-work-and-how-can-i-rank-higher/>
+- <https://www.kapwing.com/resources/instagram-trial-reels-study-what-we-learned-after-a-trial-reel-hit-1-million-views/>
+- <https://liahaberman.substack.com/p/the-best-instagram-content-formats>
+- <https://midpenpost.org/2024/05/17/flipping-in-finesse-gunn-juniors-mindset-grows-through-tricking/>  _(also cited in `02_taita_del_tricking.md`)_
+- <https://note.com/nken0302/n/n7a27734f32e2?hl=en>
+- <https://www.sarahtownsendeditorial.co.uk/2022/06/viral-video-post-on-instagram-lessons-learned/>
+- <https://seosherpa.com/instagram-search-results/>
+- <https://www.socialinsider.io/blog/instagram-reels-statistics/>
+- <https://www.socialmediaexaminer.com/instagram-marketing-how-to-pin-posts-and-reels-to-a-profile/>
+- <https://www.socialmediatoday.com/news/instagram-algorithm-prioritize-original-emerging-creators/714777/>
+- <https://www.socialmediatoday.com/news/instagram-chief-post-share-rates-key-driver-reach/716540/>
+- <https://www.socialmediatoday.com/news/instagram-chief-shares-algorithm-insights-and-posting-tips/831326/>
+- <https://www.socialmediatoday.com/news/instagram-shares-algorithm-2025/738034/>  _(also cited in `01_retention_and_curiosity.md`)_
+- <https://www.socialmediatoday.com/news/instagram-updates-algorithm-to-benefit-original-creators/819016/>
+- <https://www.socialpilot.co/blog/ideal-social-media-caption-length>
+- <https://viternogroup.com/blog/instagram-reels-reach-non-followers>
+
 ## Primary video corpus (harvested and transcribed)
 
-79 YouTube videos whose captions were fetched and analysed directly. View counts are tool-verified at harvest time (2026-11-05) and will have moved since. `UNKNOWN` means the metadata request was bot-checked; the transcript is still valid. See `video_breakdowns/README.md`.
+85 YouTube videos whose captions were fetched and analysed directly. View counts are tool-verified at harvest time (2026-11-05) and will have moved since. `UNKNOWN` means the metadata request was bot-checked; the transcript is still valid. See `video_breakdowns/README.md`.
 
 | Video | Views at harvest | Caption track | Title |
 |---|---|---|---|
 | [GcKkiRl9_qE](https://www.youtube.com/watch?v=GcKkiRl9_qE) | 97675507 | en-orig | Rooftop POV Escape Hong Kong! 🇭🇰 |
+| [WDiLJJ753ww](https://www.youtube.com/watch?v=WDiLJJ753ww) | 4491095 | en-orig | Am I Depressed? |
 | [UoUDhJ1DCXg](https://www.youtube.com/watch?v=UoUDhJ1DCXg) | 3608778 | en-orig | What Nobody Tells You About Grief and Loss - Dr Julie #shorts |
 | [7ITff1fIbSc](https://www.youtube.com/watch?v=7ITff1fIbSc) | 2224392 | en-orig | How to Grow an Audience if You Have 0 Followers |
+| [qeN7nxFPOSw](https://www.youtube.com/watch?v=qeN7nxFPOSw) | 2063164 | en-orig | CHRIS HERIA - HOW I STARTED CALISTHENICS |
 | [1RUdv6UFXQE](https://www.youtube.com/watch?v=1RUdv6UFXQE) | 1944210 | en-orig | You're Not Lazy - 3 Reasons You're Procastinating - Dr Julie #shorts |
 | [F8R6rtbEfc4](https://www.youtube.com/watch?v=F8R6rtbEfc4) | 1756049 | en-orig | What's it like being Half Japanese Raised in America? 🇯🇵🇺🇸 |
 | [6yvOSUAHgtE](https://www.youtube.com/watch?v=6yvOSUAHgtE) | 1554153 | en-orig | Learn Corkscrew in Only 5 Minutes \| How to ASAP |
@@ -459,12 +497,15 @@ From [`08_monetization.md`](08_monetization.md) — 53 sources.
 | [6V4y0AX69h4](https://www.youtube.com/watch?v=6V4y0AX69h4) | 503251 | en-orig | the psychology of building a brand everyone loves |
 | [4pnc5-PLLN0](https://www.youtube.com/watch?v=4pnc5-PLLN0) | 421108 | en-orig | Day in the Life of a Software Engineer Training for the Olympics |
 | [K2Jlzp54kdc](https://www.youtube.com/watch?v=K2Jlzp54kdc) | 327306 | en-orig | A Realistic Coding Vlog (As A Solo Startup Founder) |
+| [X5zkmhdg4hs](https://www.youtube.com/watch?v=X5zkmhdg4hs) | 309385 | en-orig | How I’m Building A $1B Company at 17 (Episode 1) |
 | [Qr1n0N8pOGI](https://www.youtube.com/watch?v=Qr1n0N8pOGI) | 251148 | en-orig | MAGICIAN Guesses your CARD! #Shorts |
+| [r_xS11oUz_Y](https://www.youtube.com/watch?v=r_xS11oUz_Y) | 250823 | en-orig | How YouTube's Biggest Parkour Channel Destroyed Itself (Storror) |
 | [BmQTvo3c_fA](https://www.youtube.com/watch?v=BmQTvo3c_fA) | 224843 | en-orig | How To Successfully Change Your Life - Dr. Julie Smith #Shorts |
 | [pV0XyRGg-gA](https://www.youtube.com/watch?v=pV0XyRGg-gA) | 169123 | ja-orig | 1200kcalは痩せない！代謝が下がる危険なダイエット法 #shorts #カロリー制限 #痩せない理由 #痩せない原因 |
 | [caVFRKCk-ec](https://www.youtube.com/watch?v=caVFRKCk-ec) | 102113 | ja-orig | ダイエット中のリアルな食事記録48食分🍳痩せた時はこれ食べてた￤簡単ごはん,コンビニで買ってたもの🛒 |
 | [HkrjA21vcFw](https://www.youtube.com/watch?v=HkrjA21vcFw) | 95316 | ja-orig | 【カロリーメイトの真実】健康への影響を管理栄養士が徹底解説！ #shorts #カロリーメイト #健康 #管理栄養士監修 |
 | [6BbAzYQQFOs](https://www.youtube.com/watch?v=6BbAzYQQFOs) | 91791 | ja-orig | 【ダイエット】爆食女が１週間コンビニのダイエットご飯を食べたら何キロ痩せれる？【体重公開】【セブン】 |
+| [W1__WySKs9k](https://www.youtube.com/watch?v=W1__WySKs9k) | 79614 | en-orig | 50 hooks, three bodies, three CTAs. That's 450 ads. |
 | [HwWXhwmPiWw](https://www.youtube.com/watch?v=HwWXhwmPiWw) | 73291 | en-orig | I'm 19 years old and made $137,367.41 in 2025... |
 | [F7B3sTHs6lk](https://www.youtube.com/watch?v=F7B3sTHs6lk) | 68744 | ja-orig | 【1週間の食事記録】3ヶ月で痩せたい私の1週間のダイエット飯【大学生リアルダイエットチャレンジ企画③】 |
 | [HEWj4qFElYQ](https://www.youtube.com/watch?v=HEWj4qFElYQ) | 65465 | ja-orig | 夕食抜きがあなたを太らせる！？ #shorts #夜ご飯抜き #夕食抜き #痩せる夕食 #痩せる夜食 #痩せる夜ご飯 |
@@ -515,6 +556,7 @@ From [`08_monetization.md`](08_monetization.md) — 53 sources.
 | [NlvQqukU5XM](https://www.youtube.com/watch?v=NlvQqukU5XM) | 1006 | en-orig | Pinned videos in TikTok |
 | [3B0300t2OUM](https://www.youtube.com/watch?v=3B0300t2OUM) | 511 | en-orig | How to Create Irresistible Fitness Coaching Packages That Sell |
 | [UodGDnrGiEo](https://www.youtube.com/watch?v=UodGDnrGiEo) | 383 | en-orig | How He Built a $50M AI App (Cal AI) |
+| [zkNR9hUlgBc](https://www.youtube.com/watch?v=zkNR9hUlgBc) | 309 | ja-orig | 【簡単】TikTokフォトモードの使い方｜写真投稿・スライド投稿の作り方完全ガイド |
 | [CPu1ek7d99Y](https://www.youtube.com/watch?v=CPu1ek7d99Y) | 167 | en-orig | Celebrating 20 Years of Tricking - Loopkicks 2024 Gathering VLOG (Santa Clara, C |
 | [V0IfUqC-OSk](https://www.youtube.com/watch?v=V0IfUqC-OSk) | 148 | en | Founders! Learn to Talk to Your Customers |
 | [Jv4IabxXIPc](https://www.youtube.com/watch?v=Jv4IabxXIPc) | 70 | en-orig | 3 Lessons Every Founder Should Know #shorts  #startup |

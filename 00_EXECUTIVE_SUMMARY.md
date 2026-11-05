@@ -12,16 +12,31 @@ than pretended otherwise.
 
 ## The short version
 
-Your tricking account's problem is not reach, packaging or luck. **It is that spectacle is
-the worst-converting content type in your niche, and spectacle is all you have posted.**
-Across 15 channels I benchmarked, instructional creators convert viewers to subscribers at
-~1.0–1.2% while spectacle channels convert at 0.24–0.34% and brand channels at 0.10%. You
-are at **0.06%**. A 10M-view crash reaches people who want *a crash*, not a tricker — so it
-cannot compound, no matter how you package it.
+> **Correction, and it matters.** An earlier version of this summary called your 0.06% "the
+> worst number in the set" and implied a 20x gap. That was benchmarked with **YouTube**
+> subs-per-view, and your audience is on **Instagram**. Measured against Instagram data,
+> 0.06% is roughly **median** for a one-hit Reel. `09_instagram.md` has the full correction;
+> the numbers below are the Instagram-native version.
 
-The fix is to stop treating the viral clips as the asset. The asset is that you are
-nationally ranked 8th and have taught 100+ people. Teaching converts. Spectacle is the
-top of the funnel you point at the teaching.
+Your 0.06% is not a disaster — it is **ordinary**. Databox's medians across 1,400+ Instagram
+accounts imply about **0.075%** follows-per-reach, and a documented 10.6M-view Instagram Reel
+converted at **0.060%**, which is your number almost exactly. The realistic Instagram ceiling
+in the evidence is about **0.17%**, set by Instagram's own showcase account. **So your gap to
+good is roughly 3x, not 20x.**
+
+That reframes the problem usefully. You have not failed at something everyone else is winning
+at; you have a *one-hit Reel*, which converts at the median by default. And the Instagram
+evidence points at a specific cause: **retention buys reach, resonance buys follows.** In the
+one Instagram A/B with real numbers, the Reel with *worse* retention (9s watch, 46% skip) got
+**145 followers** against **3** for the higher-retention one (18s, 19% skip) — because its
+like and share rates were ~8x higher. You have already solved retention. Resonance is the
+unsolved half.
+
+The fix is therefore not "post tutorials instead of spectacle." It is to give the account a
+**named, repeating premise** so a viewer has something to follow rather than a clip to enjoy.
+That is the one recommendation Instagram data independently confirms: Instagram's own
+showcase account put its premise in the *username* and went 0 → 2M in under a year. Your
+ranked-8th-and-taught-100-people background is what the premise should be built from.
 
 For `taita.talks`, drop business advice — at 19 you lose that fight on authority — and run
 the athlete-founder build log instead. For Gohantomo, the single most important finding is
@@ -34,11 +49,12 @@ which makes a shareable もぐもぐ verdict a product dependency before post #1
 
 ### The conversion problem
 
-**1. Your conversion rate is ~0.06%, and the content type is why.**
-Subs-per-view across 15 channels: Sam Sulek 1.21%, THENX 1.10%, Chris Heria 1.02%
-(instructional/one-take) against 奇軒Tricking 0.24%, Storror 0.34%, Red Bull 0.10%
-(spectacle/brand). Instructional converts roughly 4–5x better than spectacle and ~17–20x
-better than you currently do. → `02`, §3.1
+**1. Your 0.06% is median for a one-hit Instagram Reel, not worst-in-class.**
+Databox medians across 1,400+ accounts imply ~**0.075%** follows-per-reach; a documented
+10.6M-view Reel hit **0.060%**; the ceiling in the evidence is ~**0.17%**. Target 0.17% and
+measure it as per-Reel **Follows ÷ Reach** in Insights. The 15-channel table in `02` §3.1 is
+**YouTube** subs-per-view and is the wrong instrument for an Instagram account — do not read
+Sam Sulek's 1.21% as a target. → `09`, §2 and §7
 
 **2. Spectacle is structurally unfollowable.** A crash video's audience wants the crash.
 Nothing in a 51-video corpus showed a spectacle Short converting views to followers, and 3
@@ -241,6 +257,7 @@ First 30 posts with Japanese hook text: `04` §9.
 | [`06_formats_and_rotation.md`](06_formats_and_rotation.md) | Format catalogue, weekly schedules, batching |
 | [`07_creator_swipe_file.md`](07_creator_swipe_file.md) | 111 accounts and brands studied, with lessons |
 | [`08_monetization.md`](08_monetization.md) | Dated real pricing, revenue realism, the funnel |
+| [`09_instagram.md`](09_instagram.md) | **Instagram-native evidence, the follows-per-reach correction, Trial Reels, and your Insights checklist** |
 | [`video_breakdowns/`](video_breakdowns/INDEX.md) | 51 second-by-second breakdowns + 3 syntheses + title analysis |
 | [`SOURCES.md`](SOURCES.md) | 355 sources, grouped by topic |
 | [`ASSUMPTIONS.md`](ASSUMPTIONS.md) | Method, platform limits, what I could not verify |

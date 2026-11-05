@@ -189,6 +189,14 @@ Evidence **against** making Japanese your reach language (this is the part that 
 
 ### 3.1 Your conversion rate against 14 real channels
 
+> **⚠ Wrong instrument for an Instagram account.** This table is lifetime **YouTube**
+> subscribers ÷ **YouTube** views. Taita's audience is on Instagram, where 0.06% is roughly
+> the **median** for a one-hit Reel (not "the worst number in the set") and the realistic
+> ceiling is ~0.17% — a ~3x gap, not 20x. The two platforms also count a "view" differently,
+> which makes the comparison arithmetic unsound rather than merely noisy. Keep this table as
+> evidence that *instructional formats out-convert spectacle on YouTube*; do not use it to
+> set an Instagram target. See [`09_instagram.md`](09_instagram.md) §2 and §7.
+
 Lifetime subscribers divided by lifetime views, from the vidIQ pages dated 2026-11-04/05 (links in Sources). **Read the caveat before the table.**
 
 | Channel | Subs | Lifetime views | Subs per view | 1 sub per |
