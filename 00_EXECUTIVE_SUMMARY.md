@@ -12,6 +12,14 @@ than pretended otherwise.
 
 ## The short version
 
+> **Second correction — scraped Instagram data now exists.** `10_instagram_formats.md`
+> reports 429 Instagram Reels scraped and measured directly, and it overturns five
+> recommendations in these files, including two in this summary. Where this file and that
+> one disagree about Instagram, prefer that one: it measures real Reels, not YouTube videos.
+> Headlines: tutorials run at 0.32x median engagement (so "shift to instructional" reverses),
+> the founder build log is the *weakest* talks bucket, 6-15 hashtags beat 1-5 by 2.2x, and
+> ごはんとも is positioned on カロリー計算 (79K Reels) instead of 食事記録 (4.9M).
+
 > **Correction, and it matters.** An earlier version of this summary called your 0.06% "the
 > worst number in the set" and implied a 20x gap. That was benchmarked with **YouTube**
 > subs-per-view, and your audience is on **Instagram**. Measured against Instagram data,
@@ -257,7 +265,8 @@ First 30 posts with Japanese hook text: `04` §9.
 | [`06_formats_and_rotation.md`](06_formats_and_rotation.md) | Format catalogue, weekly schedules, batching |
 | [`07_creator_swipe_file.md`](07_creator_swipe_file.md) | 111 accounts and brands studied, with lessons |
 | [`08_monetization.md`](08_monetization.md) | Dated real pricing, revenue realism, the funnel |
-| [`09_instagram.md`](09_instagram.md) | **Instagram-native evidence, the follows-per-reach correction, Trial Reels, and your Insights checklist** |
+| [`09_instagram.md`](09_instagram.md) | Instagram ranking evidence, follows-per-reach, Trial Reels, your Insights checklist |
+| [`10_instagram_formats.md`](10_instagram_formats.md) | **429 scraped Reels: which formats actually perform, and five corrections to the files above** |
 | [`video_breakdowns/`](video_breakdowns/INDEX.md) | 51 second-by-second breakdowns + 3 syntheses + title analysis |
 | [`SOURCES.md`](SOURCES.md) | 355 sources, grouped by topic |
 | [`ASSUMPTIONS.md`](ASSUMPTIONS.md) | Method, platform limits, what I could not verify |
