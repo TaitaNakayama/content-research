@@ -76,6 +76,31 @@ delays** rather than in parallel, specifically to stay inside normal access patt
 
 ---
 
+## 2b. Instagram: what finally worked, and the mistake that nearly buried it
+
+Instagram turned out to be reachable, but only through a real browser, and it took three
+wrong conclusions to get there. Recording them because each one would have ended the work:
+
+1. **`curl` and the internal API say "blocked".** `instagram.com/api/v1/users/web_profile_info`
+   returns HTTP 404 for *every* username from this IP — including `instagram` and `nike`,
+   which obviously exist. Profile pages return a login/challenge wall. On that evidence I
+   reported Instagram as IP-blocked and said no credential or header spoofing could help.
+   The second half of that was right; the first half was wrong.
+2. **A real headless browser renders what `curl` cannot.** Chromium + Playwright loads the
+   public hashtag/explore grids (with reel counts) and about half of individual Reel pages,
+   with no login and no cookies. That is how all 429 Reels and every frame were obtained.
+3. **Video files are genuinely unavailable.** Instagram serves blob/DASH, so there is no
+   file to download and `ffmpeg` cannot be used — a captured fragment is unplayable without
+   its init segment, and concatenating all segments still fails `ffprobe`. **Frames were
+   instead captured by seeking the live `<video>` element and screenshotting it**, which
+   also captures burned-in on-screen text. Audio is not available by this route.
+4. **The yield collapse was my bug, not a block.** Batch capture fell to a 2% success rate
+   and I attributed it to IP reputation, then to rate limiting, and slowed the script down —
+   which made it *worse*. The real cause was reusing a single browser context across every
+   Reel; Instagram escalates to a login wall after repeated navigations in one session.
+   **A fresh context per Reel took the yield from 2% to 100%** on the same Reels that had
+   just failed. Any future scraping of this kind should open a clean context per item.
+
 ## 3. Things I could not verify
 
 - **Taita's own account metrics.** Follower counts, the 10M+ view figures, the national ranking
