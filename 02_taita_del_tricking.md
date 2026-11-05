@@ -6,7 +6,7 @@ Written for Taita. Evidence rules applied: every number has a source link or is 
 
 ## 0. Read this first (the 60-second version)
 
-1. **Your handle.** Press lists your Instagram as **`@taita_nakayama`**, not `taita.del` ([Midpen Post](https://midpenpost.org/2024/05/17/flipping-in-finesse-gunn-juniors-mindset-grows-through-tricking/)). The same article says the viral post was a **compilation of your failed triple-cork attempts, posted on Instagram**, so your 10M+ views are most likely Instagram, not TikTok or YouTube. Every profile recommendation below assumes `@taita_nakayama` on Instagram. Correct me if you run a second account.
+1. **Your handle is `taita.del`** (confirmed by Taita, 2026-11-05). A 2024 article lists `@taita_nakayama` ([Midpen Post](https://midpenpost.org/2024/05/17/flipping-in-finesse-gunn-juniors-mindset-grows-through-tricking/)); treat that as stale or a second account. All profile recommendations here and in `05` use `taita.del`. **Still open, and worth your 60 seconds:** the same article describes the viral post as a **compilation of your failed triple-cork attempts, posted on Instagram** — so the 10M+ may sit on Instagram rather than TikTok or YouTube. That decides which platform to fix first (see §3.2).
 2. Your conversion rate is about **0.06%** (6,000 followers / 10,000,000 views, from the brief) [calculation] — 1 follower per ~1,667 views. Benchmarked against 14 other real channels in section 3.1, that is the worst number in the set, including brand channels.
 3. **奇軒Tricking is verified and it is the single most useful case in this document.** 15.8M subscribers, 6.53B views, 815 videos ([vidIQ, 2026-11-04](https://vidiq.com/youtube-stats/channel/UCvw1LiGdyulhnGksJlGWB6g)); under 10,000 subs in June 2022 → 100,000 in July 2022 → 1,000,000 in October 2022 → 10,000,000 on 9 March 2024 ([CNA](https://www.cna.com.tw/news/ahel/202403090019.aspx), [Business Weekly](https://www.businessweekly.com.tw/business/blog/3014950), both quoting 「不到1萬人」/「10萬人」/「100萬人」); over 90% of subscribers from the Americas and Southeast Asia (「超過9成訂閱者來自美洲及東南亞國家」, same two sources), most comments in English. **Every headline claim held up.** Section 2.1 is the format teardown, which is the part you can actually copy.
 4. The one thing to take from him before anything else: **his global audience is built in English on wordless 51-to-60-second reversal skits; his Chinese-language posts are gym advertising that get 150K–350K.** Two languages, two jobs, one account. That is the bilingual model, and it is the opposite of "post in Japanese for reach" (section 2.5).
@@ -236,7 +236,7 @@ What is evidenced vs inferred:
 **Checks you can do in 10 minutes (analytics, not guessing):**
 - On each platform: share of views from non-followers; profile visits per 1,000 views; follows per 1,000 views for the crash vs your average video.
 - Which country the views came from (Japan vs US vs other).
-- **Confirm the platform.** Press says the viral post was an Instagram failed-attempts compilation ([Midpen Post](https://midpenpost.org/2024/05/17/flipping-in-finesse-gunn-juniors-mindset-grows-through-tricking/)). If the 10M sits on Instagram, Instagram is where the fix list runs first, and `@taita_nakayama` is the profile to rewrite.
+- **Confirm the platform.** Press says the viral post was an Instagram failed-attempts compilation ([Midpen Post](https://midpenpost.org/2024/05/17/flipping-in-finesse-gunn-juniors-mindset-grows-through-tricking/)). If the 10M sits on Instagram, Instagram is where the fix list runs first, and `taita.del` there is the profile to rewrite.
 - Whether the crash views were mostly "FYP/recommended" vs "following."
 - Whether profile bio/pinned posts say what you post.
 
@@ -383,7 +383,7 @@ Rules for all thirty: do not name the Kobe gym unless you want to; do not claim 
 - https://www.zaikei.co.jp/releases/3545137/
 
 **Taita and general conversion**
-- https://midpenpost.org/2024/05/17/flipping-in-finesse-gunn-juniors-mindset-grows-through-tricking/ (handle `@taita_nakayama`; viral post was an Instagram failed-attempts compilation)
+- https://midpenpost.org/2024/05/17/flipping-in-finesse-gunn-juniors-mindset-grows-through-tricking/ (lists handle `@taita_nakayama` — superseded: Taita confirms `taita.del`, 2026-11-05; the article's claim that the viral post was an Instagram failed-attempts compilation still stands)
 - https://gunnoracle.com/28284/features/what-the-flip-nakayama-brothers-leap-into-success/
 - https://www.toptal.com/creator/post/what-happens-when-you-go-viral
 - https://marketingrightsideup.beehiiv.com/p/dont-want-go-viral-mktrsu-012

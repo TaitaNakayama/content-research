@@ -219,8 +219,13 @@ First 30 posts with Japanese hook text: `04` §9.
   directional.
 - **Your own numbers are unverified.** The 10M+ views, ~6,000 followers, 8th place and 100+
   students all come from your brief; I never accessed your accounts.
-- **One housekeeping item:** press lists your handle as `@taita_nakayama`, not `taita.del`.
-  The packaging advice in `05` assumes whichever is current — tell me which and I'll correct it.
+- **Handle confirmed as `taita.del`** (Taita, 2026-11-05). A 2024 press article lists
+  `@taita_nakayama`, which is stale or a second account; `05`'s packaging advice already
+  used `taita.del` and is correct as written.
+- **One genuinely open question remains:** that same article describes the viral post as a
+  compilation of failed triple-cork attempts **on Instagram**, which suggests your 10M+
+  views may sit on Instagram rather than TikTok or YouTube. That changes which platform the
+  fix list runs on first. Worth checking your own analytics — see `02` §3.2.
 
 ---
 
