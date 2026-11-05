@@ -30,8 +30,17 @@ tested directly from this cloud container on 2026-11-05.
 | YouTube **auto-caption download** | ✅ **Works, with millisecond word-level timing** | `json3` caption format gives `tStartMs` per event and `tOffsetMs` per word |
 | YouTube **video/audio stream download** | ❌ **Blocked** — `HTTP Error 403: Forbidden` | Tried standard format selection and single-file format |
 | **Frame extraction** (the `ffmpeg` step in the brief) | ❌ **Not possible** | Requires the video stream, which is blocked |
-| **TikTok** (any access) | ❌ **Blocked** — `Your IP address is blocked from accessing this post` | Single attempt, per the brief's 2-attempt rule |
+| **TikTok** video download / post pages | ❌ **Blocked** — `Your IP address is blocked from accessing this post` | Single attempt, per the brief's 2-attempt rule |
+| **TikTok `oembed` endpoint** | ✅ **Works** (found late) | Confirms whether a handle exists and returns its current display name. Used to verify 18 Japanese handles live on 2026-11-05 |
+| **YouTube channel & search pages via `curl`** | ✅ **Works** (found late) | Subscriber and view counts read live rather than taken from listicles |
 | Instagram | ❌ Not attempted for download | Requires login/cookies, which the brief forbids |
+
+Two of these were discovered part-way through and are worth stating plainly, because they
+upgrade some evidence from "secondary" to "verified": TikTok's `oembed` endpoint answers
+whether a handle exists and what it is currently called, and YouTube channel pages fetch
+fine with `curl` even though the video streams do not. Figures gathered that way are read
+live and dated, not lifted from a listicle. Anything collected before that point, and
+anything about Instagram, remains secondary.
 | `faster-whisper` (installed, v1.2.1) | ⚠️ Installed but **unused** | Transcription needs audio, which is blocked. YouTube's own captions were available instead, and are *better* for this purpose because they carry word-level timing |
 
 ### What this means for the breakdowns — read this honestly
