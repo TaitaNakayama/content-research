@@ -127,4 +127,67 @@ Pre-record checklist (30 seconds, no editing): write the first sentence and last
 **Not reached:** TikTok/Instagram pages, Hormozi's book text, any Paddy Galloway newsletter data, spoken openings of the example videos (titles/snippets only).
 
 ## Second-by-second breakdowns
-<!-- BREAKDOWNS_APPENDED_HERE -->
+Fifty-one videos were broken down second by second: 18 for `taita.del`, 18 for
+`taita.talks`, 15 Japanese for Gohantomo. Index: [`video_breakdowns/INDEX.md`](video_breakdowns/INDEX.md).
+Per-brand syntheses: [del](video_breakdowns/_SYNTHESIS_del.md) ·
+[talks](video_breakdowns/_SYNTHESIS_talks.md) ·
+[gohantomo](video_breakdowns/_SYNTHESIS_gohantomo.md).
+
+**Read [`video_breakdowns/README.md`](video_breakdowns/README.md) before trusting any of it.**
+Video download is blocked from this machine, so these are *speech* analyses with
+millisecond word timing — accurate about what was said and when, and blind to on-screen
+text, cuts and framing.
+
+### What the corpus actually measured
+
+These are numbers from the breakdowns, not from blog posts.
+
+| Measure | Value | Basis |
+|---|---|---|
+| Words per second | mean 3.45, median 3.54 (range 1.63–4.27) | 18 talking-head videos |
+| Words in the first 3 seconds | median 12 (range 7–18) | 17 with speech |
+| Opening sentence length | median ~3.8s, most 2.5–6s | 17 |
+| First substantive claim | 10 of 17 arrive by 6s | 17 |
+| Payoff position | 5 of 7 single-outcome videos land in the last quarter (74–96% of runtime) | tricking corpus |
+| Videos with no CTA at all | 9 of 18 | talking-head corpus |
+| Short videos (≤68s) carrying any ask | 2 of 10 | talking-head corpus |
+| Structures filmable in one unedited take | 12 of 18 | talking-head corpus |
+
+### The finding that contradicts the standard advice
+
+Everyone says hook in the first three seconds. **In this sample that does not predict views.**
+Spearman rank correlation between views and time-to-first-claim is **+0.07**; between views
+and words-in-the-first-3s it is **−0.39** (n=17). Within one creator's own channel, Codie
+Sanchez (n=3), the *fastest* opener got the *fewest* views (9.4K against 57K and 65K).
+
+Be careful how far you take that. n=17 is small, and it is confounded by channel size,
+upload age and format — the slower-opening videos are mostly older uploads from large
+channels. It does **not** show that slow starts are fine. What it does show is that big
+videos use many different openers, and that "claim within 3 seconds" is a reasonable default
+rather than a law. Treat the pacing numbers above as norms to hit, not as a causal lever.
+
+### Where the hook isn't verbal at all
+
+The tricking corpus produced the most important negative result in this research. The
+hook there is frequently **not in the speech**:
+
+- Storror's rooftop POV Short — **97,675,507 verified views** — contains only **106
+  recognised words** and has no verbal hook.
+- 4 of 18 tricking videos open with no usable words at all (silence or music).
+- Xander 73's million-view Shorts are wordless.
+
+So for spectacle content the hook lives in the first *frame* and the *title*. Since titles
+are observable, that is where the tricking analysis went:
+[`_TITLE_ANALYSIS_del_xander73.md`](video_breakdowns/_TITLE_ANALYSIS_del_xander73.md)
+reads all 48 of his Shorts and finds English titles running at a **694,000 median against
+204,000** for his Chinese ones.
+
+### Japanese openings
+
+The Japanese Shorts are the fastest openers in the whole corpus: the claim lands at
+**0.04–2.4s**, using a quoted viewer question that is then immediately flipped —
+「痩せたいので夜ご飯抜いた方がいいですか」 answered with
+「そういうことするからいつまで当たっても痩せないのさ」. Long-form Japanese does the
+opposite, opening on a greeting and reaching its first claim at 6–26s. The highest-view
+Japanese video in the corpus opens on a **verdict** (a BMI judgement) before any story.
+

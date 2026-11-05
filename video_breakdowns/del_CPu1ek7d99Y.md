@@ -36,4 +36,4 @@ Hook as spoken: "hey everyone it's G I'm currently outside" (completes: "the Evo
 "Loop kicks 2024 is in the books... that'll do... I'll see you next time." Pushes: like, subscribe, comment, with a laugh. The manifest says this is "Taita home gym community content"; the transcript never says "Taita" (zero matches), so a link to him is not observable here.
 
 ## Transferable lesson for taita.del
-The only observable item is the community framing: the gathering and gym are the story,. It does not model a hook. For Taita, Loopkicks and Santa Clara sit near Berkeley, so local gathering coverage (a "what I learned at the gathering" breakdown) is a repeatable content slot that a 167-view vlog has not exploited. Long-form (51 minutes); no inference to Shorts.
+The only observable item is the community framing: the gathering and gym are the story. It does not model a hook. For Taita, Santa Clara is in the Bay Area, as is Berkeley, so local gathering coverage (a "what I learned at the gathering" breakdown) is a repeatable content slot that a 167-view vlog has not exploited. Long-form (51 minutes); no inference to Shorts.
