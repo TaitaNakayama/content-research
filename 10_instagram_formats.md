@@ -163,11 +163,20 @@ are not:
 | 食事記録 | **4.9M** |
 | 糖質制限 | **4.5M** |
 | レコーディングダイエット | **4.4M** |
+| 料理記録 | **25M** |
+| 今日のごはん | 9.6M |
+| 手作りごはん | 9.4M |
+| 時短レシピ | 7.2M |
+| ズボラ飯 | 3.1M |
+| 自炊男子 | 2.9M |
+| ダイエット日記 | 1.1M |
+| 食べ痩せ | 723K |
 | ヘルシーごはん | 506K |
 | **カロリー計算** | **79K** |
 
-**ごはんとも's literal category is the smallest one on this list.** カロリー計算 is ~62x
-smaller than 食事記録 and ~127x smaller than 自炊記録. The Japanese audience is not gathering
+**ごはんとも's literal category is the smallest one on this list, by a long way.**
+カロリー計算 is ~62x smaller than 食事記録, ~127x smaller than 自炊記録, and **~316x smaller
+than 料理記録**. Every large hashtag here is a *record* or a *meal*; none is a calculation. The Japanese audience is not gathering
 around *calculating calories*; it is gathering around **記録 — recording**. An app positioned
 as "AIカロリー計算" aims at the thin end of its own market.
 
