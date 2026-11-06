@@ -122,6 +122,13 @@ No verb. No promise. No hook sentence. **The hook is the number pair.** This is 
 
 ### 3b. Register, emoji and text density — settled
 
+> **Superseded on register by observation.** This section's ですます recommendation came
+> from listening to *spoken* Japanese in long-form video. Frame analysis of 20 Japanese
+> food/diet Reels found the opposite in **on-screen telop**: 0 of 16 t0 telops use ですます —
+> they are plain-form fragments of 6–16 characters. Polite form appears only in later step
+> captions. See [`12_gohantomo_japanese_reels.md`](12_gohantomo_japanese_reels.md) §2.
+
+
 - **Register: plain form (だ・である is wrong, ですます is wrong for titles).** Short-form titles and on-screen text are casual plain-form or noun-ending: 「ダイエット中ならセブンでコレ買え。」(45万) 「減量中のコンビニ飯の選び方」(134万). Imperative 〜買え and bare nouns both read as native. **Use ですます in the app and in replies; use plain/noun-ending in on-screen text.** [inference on the split; the plain-form-in-titles part is evidenced]
 - **Emoji: heavy, not sparse.** The first pass hedged on this. The corpus is unambiguous — **multiple emoji per title is the norm**, including in million-view titles: 🔥🗒🥗✨🪄🍚🫶🏻🩵‼️💖. 「【📣ウエスト-8cm🔥】食べながらゆるダイエット🪄リアルな5日間の食事記録🍝【自炊 \| 運動】」 (492,485). Kaomoji appear in display names (☺︎ in @honkidasumaru). **Do not westernise this to one tidy emoji.**
 - **Hashtag blocks are long and in the caption, 8–12 tags.** Real example: `#自分磨き #腸活ダイエット #ダイエット #食事vlog #ダイエット記録 #ダイエット日記 #食べ痩せ #健康的に痩せる #1日の食事 #食事記録`. US "3 hashtags max" advice does not apply.
