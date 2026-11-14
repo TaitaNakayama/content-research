@@ -1,272 +1,303 @@
 # Executive summary
 
-Taita — this is the whole research in one file. Everything here is evidenced elsewhere in
-`content-research/`, and where the evidence is weak I say so instead of rounding it up.
+Taita — the whole research in one file. Where the evidence is weak I say so rather than
+rounding it up, and where a later file overturned an earlier one I say that too, because a
+lot of this project consisted of me being wrong and then finding out.
 
-Read `ASSUMPTIONS.md` at some point: video download is blocked from this machine, so the
-video breakdowns analyse *speech* with millisecond timing and are blind to on-screen text
-and cuts. It matters most for tricking, where the hook is visual. I worked around it rather
-than pretended otherwise.
-
----
-
-## The short version
-
-> **Second correction — scraped Instagram data now exists.** `10_instagram_formats.md`
-> reports 429 Instagram Reels scraped and measured directly, and it overturns five
-> recommendations in these files, including two in this summary. Where this file and that
-> one disagree about Instagram, prefer that one: it measures real Reels, not YouTube videos.
-> Headlines: tutorials run at 0.32x median engagement (so "shift to instructional" reverses),
-> the founder build log is the *weakest* talks bucket, 6-15 hashtags beat 1-5 by 2.2x, and
-> ごはんとも is positioned on カロリー計算 (79K Reels) instead of 食事記録 (4.9M).
-
-> **Correction, and it matters.** An earlier version of this summary called your 0.06% "the
-> worst number in the set" and implied a 20x gap. That was benchmarked with **YouTube**
-> subs-per-view, and your audience is on **Instagram**. Measured against Instagram data,
-> 0.06% is roughly **median** for a one-hit Reel. `09_instagram.md` has the full correction;
-> the numbers below are the Instagram-native version.
-
-Your 0.06% is not a disaster — it is **ordinary**. Databox's medians across 1,400+ Instagram
-accounts imply about **0.075%** follows-per-reach, and a documented 10.6M-view Instagram Reel
-converted at **0.060%**, which is your number almost exactly. The realistic Instagram ceiling
-in the evidence is about **0.17%**, set by Instagram's own showcase account. **So your gap to
-good is roughly 3x, not 20x.**
-
-That reframes the problem usefully. You have not failed at something everyone else is winning
-at; you have a *one-hit Reel*, which converts at the median by default. And the Instagram
-evidence points at a specific cause: **retention buys reach, resonance buys follows.** In the
-one Instagram A/B with real numbers, the Reel with *worse* retention (9s watch, 46% skip) got
-**145 followers** against **3** for the higher-retention one (18s, 19% skip) — because its
-like and share rates were ~8x higher. You have already solved retention. Resonance is the
-unsolved half.
-
-The fix is therefore not "post tutorials instead of spectacle." It is to give the account a
-**named, repeating premise** so a viewer has something to follow rather than a clip to enjoy.
-That is the one recommendation Instagram data independently confirms: Instagram's own
-showcase account put its premise in the *username* and went 0 → 2M in under a year. Your
-ranked-8th-and-taught-100-people background is what the premise should be built from.
-
-For `taita.talks`, drop business advice — at 19 you lose that fight on authority — and run
-the athlete-founder build log instead. For Gohantomo, the single most important finding is
-that **the Japanese organic engine for this category is the app's score, not slideshows**,
-which makes a shareable もぐもぐ verdict a product dependency before post #1.
+**Read `ASSUMPTIONS.md` §2 and §2b before betting on anything here.** They record what could
+and could not be observed, and the three method errors that nearly buried the Instagram data.
 
 ---
 
-## The 20 findings that should change what you do
+## 1. What the evidence actually is
 
-### The conversion problem
+| Evidence base | Count | Where |
+|---|---|---|
+| **Instagram Reels — caption, likes, comments, author, date** | **436** | `10_instagram_formats.md` |
+| **Instagram Reels — frame-by-frame visual** | **131** (2,483 frames) | `11_instagram_visual_hooks.md` |
+| ↳ of which **verified Japanese** | **20** | `12_gohantomo_japanese_reels.md` |
+| YouTube videos — millisecond-timed speech breakdowns | 51 | `video_breakdowns/` |
+| Xander 73 Shorts — title + view analysis | 48 | `video_breakdowns/_TITLE_ANALYSIS_del_xander73.md` |
+| Creators / brands profiled | 111 | `07_creator_swipe_file.md` |
+| Sources cited | 396 | `SOURCES.md` |
 
-**1. Your 0.06% is median for a one-hit Instagram Reel, not worst-in-class.**
-Databox medians across 1,400+ accounts imply ~**0.075%** follows-per-reach; a documented
-10.6M-view Reel hit **0.060%**; the ceiling in the evidence is ~**0.17%**. Target 0.17% and
-measure it as per-Reel **Follows ÷ Reach** in Insights. The 15-channel table in `02` §3.1 is
-**YouTube** subs-per-view and is the wrong instrument for an Instagram account — do not read
-Sam Sulek's 1.21% as a target. → `09`, §2 and §7
-
-**2. Spectacle is structurally unfollowable.** A crash video's audience wants the crash.
-Nothing in a 51-video corpus showed a spectacle Short converting views to followers, and 3
-of 5 tricking Shorts analysed had **no call to action at all**. → `video_breakdowns/_SYNTHESIS_del.md`
-
-**3. Your two best clips are already a story — they have just never been packaged as one.**
-The Kobe crash and the landing years later are a reversal sitting in two unconnected posts.
-This is the highest-leverage unforced error in the whole account.
-
-### What actually works in tricking
-
-**4. The comparable is real, and the numbers hold.** 奇軒Tricking ("Xander 73") went from
-under 10k to 1M subscribers between June and October 2022, and now sits at 15.8M subs /
-6.53B views. Verified against CNA and Business Weekly, not a listicle. → `02`, §2.1
-
-**5. His winning Shorts are 51–60 seconds. Not 15, not 30.** All eleven of his 1M+ Shorts
-sit in that band; sub-50s clips cap out near 770k. → `02`, §2.1
-
-**6. His Shorts are wordless, and the hook is the title.** This is the most useful thing I
-found for you. I read all 48 of his Shorts off his channel page: **English titles run at a
-694,000 median, Chinese titles at 204,000** — a 3.4x gap, with every video above 2M titled
-in English and the only Chinese video over 1M being a paid Netflix promo. A Taiwanese
-creator's reach comes from *not* writing in Chinese.
-→ `video_breakdowns/_TITLE_ANALYSIS_del_xander73.md`
-
-**7. Four title patterns carry his best work**, and all are free:
-direct question to the viewer ("Who else likes my outfit?", 38M, reused for 13M) ·
-reversal ("He thought he won", 19M; "They laughed at her... until this") ·
-ultra-short plus emoji ("Level up 🔥", 92M) · and **reusing titles that already worked**.
-
-**8. Therefore: write tricking titles in English, not Japanese.** Counter-intuitive for a
-bilingual creator, but the evidence points one way. There is also no large Japanese tricking
-creator at all — Feedspot's 53-channel global directory lists zero, and the world event
-draws ~800 participants. Japanese is your **authority and community** play (captions,
-coaching, the local scene), not your reach play. → `02`, §2.5
-
-**9. Tutorial-led tricking does reach millions.** Ginger Ninja Trickster is at 1.42M subs
-on flip and martial-arts tutorials. The instructional lane is not a small-audience
-consolation prize.
-
-### Talking head
-
-**10. Run the athlete-founder build log. Drop business advice.** At 19 you cannot win
-"here's how to run a company" against 40-year-old operators. The closest analog to you is
-Marcos Rico Peng — Cal EECS, Cal swimmer, 166K subs. Frame everything as "I tried X" rather
-than "you should do X". → `03`, §2–3
-
-**11. Shorts reach is not guaranteed even at huge scale.** Hormozi's recent YouTube Shorts
-range from 2.1K to 145K views on 4.61M subscribers. Do not read early low numbers on
-`taita.talks` as a verdict on you. → `03`, §1
-
-**12. Pacing norms, measured rather than asserted.** 3.45 words/second (median 3.54), a
-median of 12 words in the first 3 seconds, and an opening sentence of about 3.8 seconds.
-Hit those. → `01`
-
-**13. "Hook in 3 seconds" is a default, not a law — and I can show it.** In an 18-video
-sample, correlation between views and time-to-first-claim was **+0.07**, and
-words-in-first-3s was **−0.39**. Within Codie Sanchez's own channel the *fastest* opener got
-the *fewest* views. The sample is small and confounded by channel size, so don't invert the
-advice — but stop optimising the first 0.5s and put the effort into the claim itself.
-
-**14. Short videos should close on the idea, not an ask.** 9 of 18 analysed videos have no
-CTA whatsoever, and only 2 of the 10 videos under ~68s carry any ask. Long-form closes on
-the ask; Shorts close on the last line of the argument.
-
-**15. 12 of 18 structures survive a single unedited take** — which is your actual
-constraint. The ranked list of nine that work is in `_SYNTHESIS_talks.md`. The cheapest:
-counted list with a withheld hint; "someone asked me" plus a count; quote → "my one rule" →
-reason.
-
-### Gohantomo
-
-**16. Japan's engine for this category is the app's score, not slideshows — and that is a
-product requirement.** VTuber 月ノ美兎's 「あすけんで絶対に100点とりたい女」 did **1,995,761
-views**; the top 食事記録 video (2,734,684) is an あすけん usage video. People make content
-out of *being judged by the app*. **もぐもぐ needs a screenshot-able daily verdict before
-post #1 ships.** → `04`, §0
-
-**17. The slideshow plan is unproven in Japan. Treat it as a test.** No Japanese photo-mode
-case publishes numbers, and Cal AI's growth appears to have run mostly on paid creators and
-ads rather than organic slideshows. `04` §4 specifies a paired 15-slideshow vs 15-video test
-with follows-per-1,000-views thresholds. Run that before committing a content strategy to it.
-
-**18. Two things to act on today:** `@gohantomo` and `@mogumogu` are **already taken on
-TikTok**, so the handle needs deciding now; and **あすけん has no TikTok account at all** —
-its own SNS page lists only X and Instagram. That is precise, verified whitespace.
-
-**19. Japanese pricing is ¥480–980/month, not Cal AI's.** あすけん runs seven price points
-from a ¥480 floor (¥580/mo standard, ¥980 Plus); カロミル ¥480. Against RevenueCat's 2025
-data — hard paywall converts 12.11% of downloads vs 2.18% freemium, and only ~20% of new
-apps reach $1,000/mo — price and paywall choice matter more than post volume. → `08`, §7
-
-**20. Compliance is a real constraint on the copy, not a footnote.** Under 薬機法 and
-景品表示法, もぐもぐ must never say 痩せる, 〇kg, 〇ヶ月, 100%/絶対, mention GLP-1, or judge
-anyone's body. **Judge the meal, not the person** — which conveniently is also the better
-hook. Specific banned phrasings with safer Japanese alternatives are in
-`_SYNTHESIS_gohantomo.md` §5. Get a real legal review before paid promotion; this is not
-legal advice.
+**The hard limit on all Instagram engagement data: it is likes and comments.** Instagram does
+not expose views, reach or follows publicly. So this measures *format appeal*, not conversion
+— and conversion is what you actually want. Only your own Insights can close that gap
+(`09_instagram.md` §6 is a 15-minute checklist; the data expires at 90 days).
 
 ---
 
-## What to do per account
+## 2. The corrections ledger
 
-### `taita.del` — tricking
+Seven things in this research were wrong at some point. They are listed because the pattern
+matters: **almost every error came from YouTube evidence being read across to Instagram, or
+from a small sample being trusted too early.**
 
-**Strategy: spectacle for reach, teaching for follows, series to connect them.**
+| Claim | Status | What overturned it |
+|---|---|---|
+| "Your 0.06% is worst-in-class, a 20x gap" | **Wrong** | YouTube subs-per-view applied to an Instagram account. Instagram median is ~0.075%; you are **ordinary**, and the gap to good is ~3x |
+| "Shift to instructional — teaching converts" | **Reversed on Instagram** | Tutorials run at **0.32x** median engagement, the worst archetype of 10 measured |
+| "Run the athlete-founder build log" (`03`'s top pick) | **Reversed** | Founder/build-in-public is the **weakest** talks bucket: 10K median vs **169K** for advice |
+| "Hashtags are inert labels, capped at 5" | **Contradicted** | 6–15 hashtags → **102K** median vs 46K for 1–5 |
+| "Burned-in on-screen text hurts performance" | **Collapsed** | A format effect, not a text effect. Within visual-demo Reels: 19% (≥3M) vs 21% (500K–3M) |
+| "Single-feat Reels land the feat late" | **Reversed** | 8 of 11 land it **before halfway** (0.05–0.47) |
+| "ですます brand voice for ごはんとも" | **Reversed** | **0 of 16** Japanese t0 telops use ですます. Plain form for hooks, polite for steps |
 
-The mix: **~40% specialist, ~35% informational, ~25% general** (`02` §1.4). Note what that
-excludes — pure spectacle is not a pillar, it is the hook you attach to a pillar.
-
-Film this week:
-1. **Pin the crash-and-landing pair as a two-part story.** Re-post the crash titled
-   *"Everyone thought I was done"* and the landing as *"Plot twist: I landed it"*. This is
-   pattern 7 applied to footage you already own.
-2. **Start one numbered series** with a fixed opening line and consistent cover, aimed at
-   51–60s. A numbered series is the single most-cited fix for a views/followers gap.
-3. **Three specialist diagnosis clips** — "why your corkscrew looks ugly" is exactly the
-   register. Specialist content is what makes 6,000 followers into a community that buys.
-4. **English titles.** Japanese in captions if you want it.
-
-30 concrete ideas with hooks: `02` §5.
-
-### `taita.talks` — raw one-take
-
-**Strategy: athlete-founder build log. One take, no edit, claim fast, close on the idea.**
-
-Film this week: 3 posts, from the nine one-take structures in `_SYNTHESIS_talks.md`. Use
-the crossover nobody else has — competitive acrobatics plus CS plus shipping an app. "What
-training for a double backflip taught me about shipping" is yours and nobody else's. Stop
-before the CTA; at this length the ask costs you more than it earns.
-
-30 ideas: `03` §6.
-
-### `ごはんとも` — Japan
-
-**Strategy: the score is the content. Ship the verdict, then launch.**
-
-Order of operations:
-1. Decide the handle (both obvious ones are taken).
-2. Ship もぐもぐ's shareable daily verdict. **Until that exists, hold the launch** — it is
-   the thing Japanese audiences demonstrably make content out of.
-3. Open the TikTok account あすけん doesn't have.
-4. Run the 15-vs-15 slideshow test before betting the format.
-5. ですます with friendly plain asides. Verdict-first hooks, claim inside 2.4 seconds.
-   Judge the meal, never the person.
-
-First 30 posts with Japanese hook text: `04` §9.
+**And one you corrected me on directly:** I wrote that you had "already solved retention,
+because that's what 10M views is." You pointed out the 10M came from landing a double
+backflip on your head and getting injured — shock value, neither repeatable nor desirable.
+You were right. That invalidated the "retention solved, resonance unsolved" framing built on
+top of it. Neither half is solved; the reach was an accident, which also means comparing your
+0.06% against creators with *earned* reach isn't like-for-like.
 
 ---
 
-## What I would ignore
+## 3. Cross-cutting findings
 
-- **Hashtag strategy.** Instagram caps them at 5 and Mosseri stated in 2025 that they don't
-  boost reach. They are labels. Spend the effort on the title.
+**3.1 Open in motion.** 17 of 22 Reels at ≥3M (77%) open mid-action or reach action within
+1–3s; **90% among visual-demo Reels**. Held when the sample tripled from 18 to 52. This is
+the most robust visual finding in the project and costs nothing to apply.
+
+**3.2 Land the payoff early.** 8 of 11 single-feat Reels land the feat between 0.05 and 0.47
+of runtime. This *reversed* at larger n — at n=18 it looked like 0.63–0.91. Front-load.
+
+**3.3 Short videos close on the idea, not an ask.** 9 of 18 analysed videos carry no CTA at
+all; only 2 of the 10 under ~68s carry any ask. Separately, across 429 Reels, captions with
+*no* CTA had the highest median engagement (53K) and `save` / `link in bio` the lowest
+(~9.6K). Confounded by account size, but it points one way.
+
+**3.4 Caption shape.** 41–120 characters is the peak band (77K median); >300 collapses to
+25K. 1–3 emoji (57K) beat 4+ (27K).
+
+**3.5 "Hook in 3 seconds" is a default, not a law.** Correlation of views against
+time-to-first-claim was **+0.07**; words-in-first-3s **−0.39** (n=17). Within one creator's
+own channel the fastest opener got the fewest views. Measured pacing norms: **3.45 words/sec,
+12 words in the first 3s, opening sentence ~3.8s.**
+
+---
+
+## 4. `taita.del` — tricking
+
+**4.1 Your competitive set clears 3M routinely, and none of it is tutorials.** Verified
+Instagram Reels: taekwondo `🦵Triple Kick💥` **3M**, wushu training **3M**, climbing
+`OVERPOWERED V13/8B 🚀 The craziest dyno I've ever done` **3M**, ninja-warrior obstacle runs
+**6M and 3M**, volleyball **5M**.
+
+**4.2 The near-miss is a format, not an accident.** `Almost had it🥀` (#basketball) did
+**11M likes**. Near-miss scored the highest archetype lift in the caption data (9.32x). **I
+must flag that I inflated this**: I seeded `#almostmadeit` and `#fail` as search tags, so the
+effect size is circular and the movement sub-sample was n=2. The direction is real — your own
+history is an instance of it — but the number is not clean. The crucial difference from your
+Kobe video: a near-miss is repeatable every session you don't land something. A concussion is
+not.
+
+**4.3 The best-documented comparable: 奇軒Tricking / "Xander 73".** Under 10k → 1M
+subscribers June–October 2022; now 15.8M subs / 6.53B views (verified via CNA and Business
+Weekly, not a listicle). His format is unexpectedly specific:
+- All eleven of his 1M+ Shorts are **51–60 seconds**; sub-50s caps near 770k
+- The Shorts are **wordless** — the hook is the title
+- **English titles median 694,000 views; Chinese titles 204,000** (3.4x). Every video above
+  2M is English-titled; the only Chinese one over 1M is a paid Netflix promo
+- Four title patterns: direct question (`Who else likes my outfit?` 38M, reused for 13M) ·
+  reversal (`He thought he won` 19M) · ultra-short + emoji (`Level up 🔥` 92M) · **reusing
+  titles that already worked**
+
+**4.4 So write tricking titles in English.** Counter-intuitive for a bilingual creator, but
+it points one way, and there is no large Japanese tricking creator at all — Feedspot's
+53-channel global directory lists zero, and the world event draws ~800 participants. Japanese
+is your authority and community play, not your reach play.
+
+**4.5 Your crash-and-landing pair is an unpackaged reversal.** The highest-leverage unforced
+error in the account: two unconnected posts that are already the strongest title pattern in
+the data.
+
+**4.6 Tutorials: occasional swing, not the default.** 0.32x median — but `Switch Tornado Kick
+Tutorial🔥` did **3M**, and Ginger Ninja Trickster is at 1.42M subs on flip tutorials. Weak
+median, high ceiling. Roughly one post in six.
+
+---
+
+## 5. `taita.talks` — raw one-take
+
+**5.1 The lane I originally recommended is the weakest one measured.** Founder /
+build-in-public: **10K median**. Advice/motivation: **169K** — 17x higher. Day-in-life 40K,
+CS/tech 30K.
+
+**5.2 What actually performs is short and declarative**, not build logs: `Just simply, don't
+quit` (3M), `Your reminder 🍵💗` (3M). Aphoristic, one idea, no setup.
+
+**5.3 The authority problem is real.** At 19 you lose "how to run a company" against
+40-year-old operators. Frame as `I tried X`, not `you should do X`. The closest analog found
+is Marcos Rico Peng — Cal EECS, Cal swimmer, 166K subs.
+
+**5.4 Reach is not guaranteed at any scale.** Hormozi's recent YouTube Shorts range 2.1K–145K
+on 4.61M subscribers. Don't read early low numbers as a verdict.
+
+**5.5 12 of 18 analysed structures survive a single unedited take** — your actual constraint.
+The three cheapest: counted list with a withheld hint; "someone asked me" + a count; quote →
+"my one rule" → reason. Full ranked list in `_SYNTHESIS_talks.md`.
+
+---
+
+## 6. `ごはんとも` — Japan
+
+**6.1 The positioning is aimed at the thinnest part of its own market.** Instagram hashtag
+volumes, read directly:
+
+| Hashtag | Reels |
+|---|---|
+| 料理記録 | **25M** |
+| 自炊記録 | 10M |
+| 今日のごはん | 9.6M |
+| ダイエット記録 | 9.5M |
+| 手作りごはん | 9.4M |
+| 宅トレ | 7.8M |
+| 時短レシピ | 7.2M |
+| 食事記録 | 4.9M |
+| **カロリー計算** | **79K** |
+
+**カロリー計算 is ~316x smaller than 料理記録.** Every large hashtag is a *record* or a
+*meal*; not one is a calculation. Lead with **記録**, and let the AI calorie estimate be *how*
+it records rather than *what it is*. This is the cheapest strategic fix in the project and
+only available before launch.
+
+**6.2 Independently confirmed by the frames: 0 of 20 Japanese Reels show kcal, grams or PFC
+in the hook.** The app's core metric appears in none of them. The only in-frame nutrition
+values anywhere were inside one app screen-recording. Two different methods, same conclusion:
+Japanese audiences do not organise around calorie numbers.
+
+**6.3 Japanese telop behaves oppositely to English — this reverses `04`'s register advice.**
+- **20 of 20** Reels carry on-screen text by 1 second (16 at t0). There is **no** clean
+  text-free hook window. In English only 38% had t0 headline text. Telop is mandatory here.
+- **0 of 16** t0 telops use ですます. They are **plain-form fragments of 6–16 characters**,
+  usually mid-frame over the food. Polite form appears only in later step captions.
+- **9 of 20** run a two-beat setup-then-punch: `これ作ったら` → `美味しすぎて` (38K);
+  `これ知らないの` → `もったいない！` (18K); `痩せたいなら` → `米の量を減らさないで`.
+- Emoji at t0 are **rare** (4 of 20) — the opposite of the English pattern.
+- **13 of 13 food Reels show the finished dish or the eating inside the first 3 seconds.**
+- Opening composition: food-first 10, person-first 9, **text-card-first 0**.
+
+**6.4 No mascot appears in any of the 20 Reels.** A もぐもぐ-led hook is a differentiation
+bet, not a proven pattern. Worth knowing before building the account around one.
+
+**6.5 Japan's organic engine for this category is the app's score.** VTuber 月ノ美兎's
+「あすけんで絶対に100点とりたい女」 did **1,995,761 views**; the top 食事記録 video
+(2,734,684) is an あすけん usage video. People make content out of *being judged by the app*.
+**もぐもぐ needs a screenshot-able daily verdict before post #1.** That is a product
+dependency, not a content idea.
+
+**6.6 Slideshows are unproven in Japan.** No Japanese photo-mode case publishes numbers, and
+Cal AI's growth appears to have run on paid creators and ads rather than organic slideshows.
+`04` §4 specifies a paired 15-slideshow vs 15-video test. Run that before committing.
+
+**6.7 Two things to act on today:** `@gohantomo` and `@mogumogu` are **already taken on
+TikTok**. And **あすけん has no TikTok account at all** (its own SNS page lists only X and
+Instagram) — verified whitespace.
+
+**6.8 Expectations need resetting.** Japanese diet Reels median **73 likes**; Japanese food
+**12K**. Against 60K for sports. Lead with the *food* framing, which outperforms the *diet*
+framing by ~160x in this sample.
+
+**6.9 Compliance is a copy constraint, with real examples.** Things actual accounts say that
+an app legally should not: `10キロ痩せた`, `70kg→45kg ＼半年で−20kg！／`,
+`食べても太られへんどころか / 腸もスッキリ！`, `\太らない/`. Under 薬機法 / 景品表示法 /
+健康増進法, keep kg numbers and 痩せる / 太らない out of app-voice hooks, and phrase verdicts
+as an estimate (`目安`) of what was eaten rather than an effect on the body. **Judge the meal,
+never the person.** Not legal advice — get a Japanese-law review before paid promotion.
+
+---
+
+## 7. Money
+
+**The library is cheap; the human review is the premium.** Kojo's Trick Lab sells identical
+content at **$15/mo**, then charges **$50/mo** (15 clip reviews) and **$60/mo** (50) — a
+3.3–4x premium for a person watching your footage. With 100+ students coached, that is your
+leverage. Sell your eyes, not your library.
+
+**Scale is not revenue.** THENX shows ~1.6M installs with an estimated **under $10k/mo and
+declining** (AppGoblin, crawled 2026-11-01).
+
+**Loopkicks is gone** — the domain is parked and for sale. It cannot be cited as a model,
+though the Instagram community around it is still active.
+
+**App economics (RevenueCat 2025):** hard paywall converts **12.11%** of downloads vs
+**2.18%** freemium; health & fitness trial-to-paid 39.9%; 12-month retention 44.1% annual vs
+17.0% monthly. Only **~20%** of new apps reach $1,000/mo and **5%** reach $10,000 within two
+years. Japanese pricing anchors: あすけん ¥480 floor / ¥580 standard / ¥980 Plus; カロミル ¥480.
+
+**Nobody publishes a short-form-to-paid-coaching conversion rate.** I looked hard and excluded
+vendor blogs quoting each other. Treat coaching projections as unvalidated.
+
+---
+
+## 8. Film this week
+
+**`taita.del`** — (1) Re-post the crash and the landing as a *pair*: `Everyone thought I was
+done` → `Plot twist: I landed it`. (2) Start one numbered series, 51–60s, fixed opening line.
+(3) Three specialist diagnosis clips ("why your corkscrew looks ugly"). (4) English titles,
+open mid-action, trick lands before halfway, caption 41–120 chars with 6–15 hashtags and no CTA.
+
+**`taita.talks`** — 3 one-take posts in the *advice/aphorism* register, not build-log updates.
+Use the crossover nobody else has: competitive acrobatics + CS + shipping an app. Close on the
+idea, not an ask.
+
+**`ごはんとも`** — (1) Decide the handle. (2) Ship もぐもぐ's shareable verdict before
+launching. (3) Rename around 記録, not カロリー計算. (4) Open the TikTok あすけん doesn't have.
+(5) Telop from frame one: plain-form fragment, 6–14 chars, two-beat payoff, finished dish in
+the first 3 seconds.
+
+---
+
+## 9. What I would ignore
+
 - **Comment-bait.** TikTok's own guidelines make engagement-manipulating content ineligible
-  for the For You feed. The risk outstrips the gain.
-- **Building a course or content library at 6,000 followers.** The verified pattern is that
-  the library is cheap and the *human review* is the premium: Kojo's Trick Lab sells the
-  same content at $15/mo but charges $50–60/mo for clip review. Sell your eyes, not your
-  footage. And note THENX has ~1.6M installs with an estimated **under $10k/mo, declining** —
-  scale is not revenue.
-- **Loopkicks as a model.** It is gone; the domain is parked and for sale.
+  for the For You feed.
+- **Building a course or library at 6,000 followers.** See §7.
+- **Leading with calories in Japanese copy.** §6.1 and §6.2 agree from two directions.
+- **Weight numbers in any app-voice hook.** §6.9.
+- ~~Hashtag strategy~~ — **I previously said ignore this and was wrong.** 6–15 hashtags
+  outperformed 1–5 by 2.2x across 429 Reels.
 
 ---
 
-## Where this research is weak — read before betting on it
+## 10. Where this is weak
 
-- **No frames, ever.** On-screen text, cuts and covers were never observable. Visual claims
-  anywhere in these files are secondary or marked `[inference]`.
-- **Tricking is the weakest corpus.** Its hook is visual, so transcripts cannot reach it.
-  The 97.6M-view Storror Short contains 106 words. I pivoted to title analysis because that
-  *is* observable — but there is no second-by-second analysis of a winning tricking Short
-  here, because it cannot be done from this machine.
-- **Nobody publishes short-form-to-paid-coaching conversion rates.** I looked hard. Vendor
-  blogs quoting each other were excluded rather than cited. Treat coaching revenue
-  projections as unvalidated.
-- **Small samples.** The correlation findings rest on n=17–18 and are confounded. They are
-  directional.
-- **Your own numbers are unverified.** The 10M+ views, ~6,000 followers, 8th place and 100+
-  students all come from your brief; I never accessed your accounts.
-- **Handle confirmed as `taita.del`** (Taita, 2026-11-05). A 2024 press article lists
-  `@taita_nakayama`, which is stale or a second account; `05`'s packaging advice already
-  used `taita.del` and is correct as written.
-- **One genuinely open question remains:** that same article describes the viral post as a
-  compilation of failed triple-cork attempts **on Instagram**, which suggests your 10M+
-  views may sit on Instagram rather than TikTok or YouTube. That changes which platform the
-  fix list runs on first. Worth checking your own analytics — see `02` §3.2.
+- **Likes are not follows.** Instagram hides views, reach and follows. Everything in `10`–`12`
+  measures format appeal, not conversion.
+- **Small samples in the visual files.** `11` is n=52, `12` is n=20, several sub-groups are
+  n<8 and flagged provisional. Claims at this size have already flipped once in this project.
+- **The near-miss 9.32x is inflated** — I seeded those tags (§4.2).
+- **CTA and hashtag correlations are confounded** by account size. Large accounts don't need
+  to ask.
+- **`02` still leans on YouTube benchmarks** that `10` partly overturns. Flagged in place
+  rather than rewritten, so read `02` §3.1 with its banner.
+- **Your own numbers are unverified.** 10M+ views, ~6,000 followers, 8th nationally, 100+
+  students — all from your brief. I never accessed your accounts.
+- **Open question: is your 10M actually on Instagram?** A 2024 Midpen Post article describes
+  the viral post as a failed-triple-cork compilation **on Instagram**. If so, Instagram is
+  where the fix list runs first. Your Insights settle it in 15 minutes.
+- **Handle:** `taita.del`, confirmed by you 2026-11-05. The press `@taita_nakayama` is stale.
 
 ---
 
-## Map of the files
+## 11. Map of the files
 
 | File | What's in it |
 |---|---|
-| [`01_retention_and_curiosity.md`](01_retention_and_curiosity.md) | Hook/loop/payoff playbook, measured pacing norms, the 51-video findings |
-| [`02_taita_del_tricking.md`](02_taita_del_tricking.md) | Tricking niche, conversion diagnosis, verified comparables, 30 ideas |
-| [`03_taita_talks.md`](03_taita_talks.md) | Niche choice, the authority problem, one-take rotation, 30 ideas |
+| [`01_retention_and_curiosity.md`](01_retention_and_curiosity.md) | Hook/loop/payoff playbook, measured pacing norms |
+| [`02_taita_del_tricking.md`](02_taita_del_tricking.md) | Tricking niche, conversion diagnosis, comparables, 30 ideas |
+| [`03_taita_talks.md`](03_taita_talks.md) | Niche choice, authority problem, one-take rotation, 30 ideas |
 | [`04_gohantomo_japan.md`](04_gohantomo_japan.md) | Japan landscape, slideshow verdict, compliance, first 30 posts |
 | [`05_captions_and_packaging.md`](05_captions_and_packaging.md) | 112 caption/hook templates (EN + JA), SEO, profile packaging |
 | [`06_formats_and_rotation.md`](06_formats_and_rotation.md) | Format catalogue, weekly schedules, batching |
-| [`07_creator_swipe_file.md`](07_creator_swipe_file.md) | 111 accounts and brands studied, with lessons |
+| [`07_creator_swipe_file.md`](07_creator_swipe_file.md) | 111 accounts and brands studied |
 | [`08_monetization.md`](08_monetization.md) | Dated real pricing, revenue realism, the funnel |
-| [`09_instagram.md`](09_instagram.md) | Instagram ranking evidence, follows-per-reach, Trial Reels, your Insights checklist |
-| [`10_instagram_formats.md`](10_instagram_formats.md) | **429 scraped Reels: which formats actually perform, and five corrections to the files above** |
-| [`video_breakdowns/`](video_breakdowns/INDEX.md) | 51 second-by-second breakdowns + 3 syntheses + title analysis |
-| [`SOURCES.md`](SOURCES.md) | 355 sources, grouped by topic |
-| [`ASSUMPTIONS.md`](ASSUMPTIONS.md) | Method, platform limits, what I could not verify |
+| [`09_instagram.md`](09_instagram.md) | Instagram ranking evidence, follows-per-reach, **your Insights checklist** |
+| [`10_instagram_formats.md`](10_instagram_formats.md) | **436 scraped Reels** — formats by engagement, five corrections |
+| [`11_instagram_visual_hooks.md`](11_instagram_visual_hooks.md) | **52 Reels frame-by-frame**, with a claims-retested table |
+| [`12_gohantomo_japanese_reels.md`](12_gohantomo_japanese_reels.md) | **20 Japanese Reels**, telop playbook, compliance |
+| [`video_breakdowns/`](video_breakdowns/INDEX.md) | 51 YouTube breakdowns, 3 syntheses, Xander 73 title analysis |
+| [`instagram_frames/`](instagram_frames/README.md) | The 436-Reel dataset and the 131-Reel frame manifest |
+| [`SOURCES.md`](SOURCES.md) | 396 sources, grouped by topic |
+| [`ASSUMPTIONS.md`](ASSUMPTIONS.md) | Method, platform limits, and the errors made along the way |
